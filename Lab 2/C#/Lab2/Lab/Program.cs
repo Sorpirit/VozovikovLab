@@ -6,6 +6,13 @@ namespace Lab
     {
         static void Main(string[] args)
         {
+            /*
+             * В-19
+             * Задані дійсні числа x, y. Визначити, чи належить точка з координатами (x, y)
+             * заштрихованій частині площини:
+             */
+            
+            
             Console.Write("Input x: ");
             float x = float.Parse(Console.ReadLine());
             Console.Write("Input y: ");
