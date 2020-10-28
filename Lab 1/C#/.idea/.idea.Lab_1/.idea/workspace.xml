@@ -4,11 +4,17 @@
     <projectFile>Lab_1/Lab_1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce5b5de-adbd-4651-a65f-3d18926a7355" name="Default Changelist" comment="Init" />
+    <list default="true" id="fce5b5de-adbd-4651-a65f-3d18926a7355" name="Default Changelist" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab_1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab_1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab_1/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -62,6 +68,7 @@
       <workItem from="1603220027893" duration="623000" />
       <workItem from="1603220720243" duration="242000" />
       <workItem from="1603279512816" duration="1945000" />
+      <workItem from="1603793782203" duration="43000" />
     </task>
     <servers />
   </component>
