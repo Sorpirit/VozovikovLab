@@ -24,16 +24,6 @@ namespace Lab_1
             float result = pointPart + intPart * 0.001f;
             
             Console.Write("Результат: " + result);
-
-            for (int a = 1; a <= 4; a++)
-            {
-                for (int b = 1; b <= a; b++)
-                {
-                    Console.Write(b);
-                }
-                Console.Write("\n");
-            }
-            
         }
     }
 }
