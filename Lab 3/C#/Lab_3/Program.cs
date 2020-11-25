@@ -7,7 +7,7 @@ namespace Lab_3
         /*
          * В-31
          * Задане дійсне число x. 
-         * Обчислити натуральний логарифм: (ln(x+1))/x , розкладеный за рядом Меркатора.
+         * Обчислити натуральний логарифм: ln(x+1))/x , розкладеный за рядом Меркатора.
          */
         
         
@@ -15,6 +15,9 @@ namespace Lab_3
         {
             Console.Write("Enter x: ");
             double x = double.Parse(Console.ReadLine());
+            
+            if(Math.Abs(x) > 1)
+                return;
             
             double e = 0.000001f;
             int nCounter = 2;

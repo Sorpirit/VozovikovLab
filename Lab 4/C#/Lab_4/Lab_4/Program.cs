@@ -17,6 +17,9 @@ namespace Lab_4
             int n = int.Parse(Console.ReadLine());
             Console.Write("Enter m: ");
             int m = int.Parse(Console.ReadLine());
+
+            if(n<=m)
+                return;
             
             int result = 0;
             for (int i = 1; i <= m; i++)

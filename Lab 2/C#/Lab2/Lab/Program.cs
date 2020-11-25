@@ -12,7 +12,6 @@ namespace Lab
              * заштрихованій частині площини:
              */
             
-            
             Console.Write("Input x: ");
             float x = float.Parse(Console.ReadLine());
             Console.Write("Input y: ");
