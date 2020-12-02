@@ -5,6 +5,11 @@ namespace ConsoleApp1
 {
     class Program
     {
+        /*
+         * Input 12 - 1100
+         * Output 3 - 0011
+         */
+        
         static void Main(string[] args)
         {
             Console.Write("Input: ");
@@ -25,7 +30,6 @@ namespace ConsoleApp1
                 if ((n & 1 << (leftCounter - 1)) > 0)
                 {
                     result += 1<<(ricghtCounter - 1);
-                    
                 }
 
                 ricghtCounter ++;
